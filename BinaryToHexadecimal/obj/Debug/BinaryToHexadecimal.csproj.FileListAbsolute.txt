@@ -1,0 +1,22 @@
+D:\MyC#Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+D:\MyC#Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+D:\MyC#Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.AssemblyReference.cache
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.SuggestedBindingRedirects.cache
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.Form1.resources
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.Properties.Resources.resources
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.GenerateResource.cache
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.CoreCompileInputs.cache
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+D:\MyC#Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.AssemblyReference.cache
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.Form1.resources
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.Properties.Resources.resources
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+C:\Users\kerim\Desktop\MainFolder\Github Projects\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb
